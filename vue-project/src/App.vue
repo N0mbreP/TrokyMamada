@@ -57,7 +57,295 @@ export default {
   { "Pokémon": "Registeel", "Vida": 80, "Ataque": 75, "Defensa": 150, "Ataque Especial": 75, "Defensa Especial": 150, "Velocidad": 50 },
   { "Pokémon": "Latios", "Vida": 80, "Ataque": 90, "Defensa": 80, "Ataque Especial": 130, "Defensa Especial": 110, "Velocidad": 110 },
   { "Pokémon": "Tropius", "Vida": 99, "Ataque": 68, "Defensa": 83, "Ataque Especial": 72, "Defensa Especial": 87, "Velocidad": 51 },
-  { "Pokémon": "Pikachu", "Vida": 35, "Ataque": 55, "Defensa": 40, "Ataque Especial": 50, "Defensa Especial": 50, "Velocidad": 90 }
+  { "Pokémon": "Pikachu", "Vida": 35, "Ataque": 55, "Defensa": 40, "Ataque Especial": 50, "Defensa Especial": 50, "Velocidad": 90 },
+  {
+    "Pokémon": "Registeel",
+    "Vida": 80,
+    "Ataque": 75,
+    "Defensa": 150,
+    "Ataque Especial": 75,
+    "Defensa Especial": 150,
+    "Velocidad": 50,
+    "Nivel Necesario": 45,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Latios",
+    "Vida": 80,
+    "Ataque": 90,
+    "Defensa": 80,
+    "Ataque Especial": 130,
+    "Defensa Especial": 110,
+    "Velocidad": 110,
+    "Nivel Necesario": 50,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Tropius",
+    "Vida": 99,
+    "Ataque": 68,
+    "Defensa": 83,
+    "Ataque Especial": 72,
+    "Defensa Especial": 87,
+    "Velocidad": 51,
+    "Nivel Necesario": 55,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Pikachu",
+    "Vida": 35,
+    "Ataque": 55,
+    "Defensa": 40,
+    "Ataque Especial": 50,
+    "Defensa Especial": 50,
+    "Velocidad": 90,
+    "Nivel Necesario": 68,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Blaziken",
+    "Vida": 80,
+    "Ataque": 120,
+    "Defensa": 70,
+    "Ataque Especial": 110,
+    "Defensa Especial": 70,
+    "Velocidad": 80,
+    "Nivel Necesario": 56,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Shroomish",
+    "Vida": 60,
+    "Ataque": 40,
+    "Defensa": 60,
+    "Ataque Especial": 40,
+    "Defensa Especial": 60,
+    "Velocidad": 35,
+    "Nivel Necesario": 74,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Marshtomp",
+    "Vida": 70,
+    "Ataque": 85,
+    "Defensa": 70,
+    "Ataque Especial": 60,
+    "Defensa Especial": 70,
+    "Velocidad": 50,
+    "Nivel Necesario": 61,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Mawile",
+    "Vida": 50,
+    "Ataque": 85,
+    "Defensa": 85,
+    "Ataque Especial": 55,
+    "Defensa Especial": 55,
+    "Velocidad": 50,
+    "Nivel Necesario": 61,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Anorith",
+    "Vida": 45,
+    "Ataque": 95,
+    "Defensa": 50,
+    "Ataque Especial": 40,
+    "Defensa Especial": 50,
+    "Velocidad": 75,
+    "Nivel Necesario": 59,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Pinsir",
+    "Vida": 65,
+    "Ataque": 125,
+    "Defensa": 100,
+    "Ataque Especial": 55,
+    "Defensa Especial": 70,
+    "Velocidad": 85,
+    "Nivel Necesario": 55,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Spinda",
+    "Vida": 60,
+    "Ataque": 60,
+    "Defensa": 60,
+    "Ataque Especial": 60,
+    "Defensa Especial": 60,
+    "Velocidad": 60,
+    "Nivel Necesario": 60,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Treecko",
+    "Vida": 40,
+    "Ataque": 45,
+    "Defensa": 35,
+    "Ataque Especial": 65,
+    "Defensa Especial": 55,
+    "Velocidad": 70,
+    "Nivel Necesario": 73,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Gorebyss",
+    "Vida": 55,
+    "Ataque": 84,
+    "Defensa": 105,
+    "Ataque Especial": 114,
+    "Defensa Especial": 75,
+    "Velocidad": 52,
+    "Nivel Necesario": 55,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Torkoal",
+    "Vida": 70,
+    "Ataque": 85,
+    "Defensa": 140,
+    "Ataque Especial": 85,
+    "Defensa Especial": 70,
+    "Velocidad": 20,
+    "Nivel Necesario": 78,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Kangaskhan",
+    "Vida": 105,
+    "Ataque": 95,
+    "Defensa": 80,
+    "Ataque Especial": 40,
+    "Defensa Especial": 80,
+    "Velocidad": 90,
+    "Nivel Necesario": 54,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Poochyena",
+    "Vida": 35,
+    "Ataque": 55,
+    "Defensa": 35,
+    "Ataque Especial": 30,
+    "Defensa Especial": 30,
+    "Velocidad": 35,
+    "Nivel Necesario": 75,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Volbeat",
+    "Vida": 65,
+    "Ataque": 73,
+    "Defensa": 75,
+    "Ataque Especial": 47,
+    "Defensa Especial": 85,
+    "Velocidad": 85,
+    "Nivel Necesario": 54,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Kecleon",
+    "Vida": 60,
+    "Ataque": 90,
+    "Defensa": 70,
+    "Ataque Especial": 60,
+    "Defensa Especial": 120,
+    "Velocidad": 40,
+    "Nivel Necesario": 69,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Deoxys (Normal)",
+    "Vida": 50,
+    "Ataque": 150,
+    "Defensa": 50,
+    "Ataque Especial": 150,
+    "Defensa Especial": 50,
+    "Velocidad": 150,
+    "Nivel Necesario": 46,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Paras",
+    "Vida": 35,
+    "Ataque": 70,
+    "Defensa": 55,
+    "Ataque Especial": 45,
+    "Defensa Especial": 55,
+    "Velocidad": 25,
+    "Nivel Necesario": 75,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Regirock",
+    "Vida": 80,
+    "Ataque": 100,
+    "Defensa": 200,
+    "Ataque Especial": 50,
+    "Defensa Especial": 100,
+    "Velocidad": 50,
+    "Nivel Necesario": 44,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Tentacool",
+    "Vida": 40,
+    "Ataque": 40,
+    "Defensa": 35,
+    "Ataque Especial": 50,
+    "Defensa Especial": 100,
+    "Velocidad": 70,
+    "Nivel Necesario": 70,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Meditite",
+    "Vida": 30,
+    "Ataque": 40,
+    "Defensa": 55,
+    "Ataque Especial": 40,
+    "Defensa Especial": 55,
+    "Velocidad": 60,
+    "Nivel Necesario": 77,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Dratini",
+    "Vida": 41,
+    "Ataque": 64,
+    "Defensa": 45,
+    "Ataque Especial": 50,
+    "Defensa Especial": 50,
+    "Velocidad": 50,
+    "Nivel Necesario": 71,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Latias",
+    "Vida": 80,
+    "Ataque": 80,
+    "Defensa": 90,
+    "Ataque Especial": 110,
+    "Defensa Especial": 130,
+    "Velocidad": 110,
+    "Nivel Necesario": 50,
+    "Stats Totales": 710
+  },
+  {
+    "Pokémon": "Nosepass",
+    "Vida": 30,
+    "Ataque": 45,
+    "Defensa": 135,
+    "Ataque Especial": 45,
+    "Defensa Especial": 90,
+    "Velocidad": 30,
+    "Nivel Necesario": 80,
+    "Stats Totales": 710
+  }
+
+
 ],
       // Resultado calculado
       pokemonsCalculados: []
