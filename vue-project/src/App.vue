@@ -90,9 +90,9 @@ export default {
         let statsTotales = 0;
 
         // Incrementa el nivel hasta alcanzar un total cercano a 710
-        while (statsTotales < 710 && nivel <= 100) {
+        while (statsTotales < 531 && nivel <= 100) {
           statsTotales = this.calcularStatsTotales(pokemon, nivel);
-          if (statsTotales >= 710) break;
+          if (statsTotales >= 531) break;
           nivel++;
         }
 
